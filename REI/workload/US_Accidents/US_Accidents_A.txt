@@ -1,0 +1,100 @@
+ne\ closed\ on\ I\-465\ W\ \-\ I\-74\ W\ \-\ USS\ In[A-Za-z]{10,10}\ Memorial\ Hwy\ from\ IN\-37/Harding\ St/Exit\ 4\ \(I\-74/I\-465\)\ to\ Mann\ Rd/Exit\ 7\ \(I\-74/I\-465\)\ due\ to\ accident\.
+ight\ lane\ blocked\ due\ to\ accident\ on\ I\-225\ So[A-Za-z]{8,8}\ at\ Exit\ 9\ CO\-30\ 6th\ Ave\.
+low\ traffic\ on\ OR\-126\ from\ Te[A-Za-z]{9,9}\ Hwy\ \(OR\-126\)\ to\ Green\ Hill\ Rd\ \(OR\-126\)\ due\ to\ accident\.
+wo\ lanes\ blocked\ due\ to\ accident\ on\ I\-41\ No[A-Za-z]{8,8}\ at\ Exits\ 168A\ 168B\-C\ US\-41\.
+Accident\ on\ Mall\ Woods\ Dr\ at\ OH\-741\ Sp[A-Za-z]{8,8}\ Pike\.
+In[A-Za-z]{6,6}\ on\ I\-35\ SB\ near\ HOLLY\ ST\ Drive\ with\ caution\.
+t\ CA\-9/Co[A-Za-z]{6,6}\ Springs\ Rd\ \-\ Accident\.\ Fallen\ trees\.
+Slow\ traffic\ on\ San\ Gabriel\ River\ Fwy\ S\ \-\ I\-605\ S\ from\ Valley\ Blvd\ \(I\-605\)\ to\ Peck\ Rd\ \(I\-605\)\ due\ to\ ac[A-Za-z]{6,6}\.
+Slow\ traffic\ on\ CA\-210\ W\ \-\ Fo[A-Za-z]{6,6}\ Fwy\ W\ from\ Alder\ Ave/Exit\ 68\ \(CA\-210\)\ to\ Beech\ Ave\ \(CA\-210\)\ due\ to\ accident\.
+In[A-Za-z]{6,6}\ on\ DANIELS\ ST\ near\ CAMERON\ ST\ Drive\ with\ caution\.
+Ac[A-Za-z]{6,6}\ on\ US\-222\ at\ US\-322\ Division\ Hwy\.
+In[A-Za-z]{6,6}\ on\ BEAUDROT\ RD\ near\ CENTER\ ST\ Drive\ with\ caution\.
+ane\ blocked\ and\ left\ hand\ shoulder\ blocked\ due\ to\ accident\ on\ I\-71\ No[A-Za-z]{8,8}\ after\ Exit\ 189\ KY\-1072\ Kyles\ Ln\.
+In[A-Za-z]{6,6}\ on\ MOYER\ RD\ near\ LANDIS\ RD\ Drive\ with\ caution\.
+t\ Baxter\ Rd\ \-\ Ac[A-Za-z]{6,6}\.
+ti\-vehicle\ accident\ on\ 72nd\ St\ No[A-Za-z]{8,8}\ at\ F\ St\.
+cident\ on\ US\-64\ WB\ near\ GOLD\ MINE\ RD\ Road\ closed\.\ Take\ al[A-Za-z]{7,7}\ route\.
+St[A-Za-z]{8,8}\ traffic\ on\ Belt\ Pkwy\ E\ from\ Knapp\ St/Exit\ 9\ \(Belt\ Pkwy\)\ to\ Crossbay\ Blvd/Exit\ 17\ \(Belt\ Pkwy\)\ due\ to\ accident\.
+Closed\ at\ Antioch\ Brg\ \-\ Road\ closed\ due\ to\ ac[A-Za-z]{6,6}\.
+ident\ on\ Statler\ Rd\ between\ Ba[A-Za-z]{9,9}\ Rd\ and\ Tyeu\ Trl\.
+ident\ on\ SC\-11\ near\ LINDSEY\ RD\ Road\ closed\.\ Take\ al[A-Za-z]{7,7}\ route\.
+In[A-Za-z]{6,6}\ on\ SW\ 107TH\ AVE\ near\ HOUSE\ 5000\ Expect\ delays\.
+St[A-Za-z]{8,8}\ traffic\ on\ UT\-104\ \-\ UT\-126\ from\ Painter\ Ln\ to\ W\ 2200\ S\ due\ to\ accident\.
+St[A-Za-z]{8,8}\ traffic\ on\ I\-75\ from\ US\-301/Exit\ 49\ \(I\-75\)\ to\ CR\-672/Exit\ 47\ \(I\-75\)\ due\ to\ accident\.
+ncident\ on\ MCMULLEN\ BOOTH\ RD\ near\ HO[A-Za-z]{7,7}\ OAKS\ DR\ Drive\ with\ caution\.
+Accident\ on\ I\-25\ So[A-Za-z]{8,8}\ at\ Exit\ 212C\ 20th\ St\.
+Ac[A-Za-z]{6,6}\ on\ Dayton\ Pike\ near\ Water\ St\.
+ccident\ on\ I\-540\ We[A-Za-z]{7,7}\ at\ Exit\ 20\ Buffaloe\ Rd\.
+In[A-Za-z]{6,6}\ on\ I\-526\ WB\ near\ EXIT\ 19\ Right\ lane\ blocked\.\ Expect\ delays\.
+Ac[A-Za-z]{6,6}\ on\ Court\ St\ at\ Averill\ Ave\.
+In[A-Za-z]{6,6}\ on\ THOMAS\ RD\ near\ HOUSE\ 6700\ Drive\ with\ caution\.
+Ac[A-Za-z]{6,6}\ on\ County\ Hwy\-39\ from\ County\ Road\ X\ to\ State\ Highway\ 45\.
+t\ Lariat\ Dr/Exit\ 71\ \-\ Ac[A-Za-z]{6,6}\.
+losed\ at\ St[A-Za-z]{6,6}\ Rd/Game\ School\ Rd\ \-\ Road\ closed\ due\ to\ accident\.\ Roadwork\.
+St[A-Za-z]{8,8}\ traffic\ on\ I\-84\ W\ \-\ US\-30\ W\ from\ 2nd\ St/Exit\ 85\ \(I\-84\)\ to\ 2nd\ St/Exit\ 63\ \(I\-84\)\ due\ to\ accident\.
+In[A-Za-z]{6,6}\ on\ OCHS\ HWY\ near\ ALABAMA\ AVE\ Drive\ with\ caution\.
+ConnDOT:\ Crash\ \(1\ Vehicle\)\ on\ I\-91\ No[A-Za-z]{8,8}\ between\ Exits\ 23\ and\ 24\.\ The\ left\ lane\ is\ closed\.\ Reported\ Saturday\ October\ 23\ at\ 8:33\ pm\.
+t\ I\-277/NC\-16/E\ 10th\ St/N\ Da[A-Za-z]{6,6}\ St\ \-\ Accident\.
+e\ lane\ blocked\ and\ right\ hand\ shoulder\ blocked\ due\ to\ accident\ on\ I\-30\ We[A-Za-z]{7,7}\ at\ Galloway\ Ave\.
+ccident\ on\ Saginaw\ St\ near\ Pl[A-Za-z]{10,10}\ Dr\.
+J\ DOT\ \-\ TOC\ South:\ Crash\ on\ US\ 1\ so[A-Za-z]{8,8}\ North\ of\ I\-295\ \(Lawrence\ Twp\)\ right\ shoulder\ closed\ use\ caution
+etween\ I\-69/Exit\ 20\ and\ Hardy\ Toll\ Rd/Hardy\ St/Exit\ 19\ \-\ Ac[A-Za-z]{6,6}\.
+Crash\ on\ PA\ 36\ no[A-Za-z]{8,8}\ 0\ miles\ NORTH\ of\ BROOKS\ BL\.\ There\ is\ a\ traffic\ disruption\.
+Crash\ on\ US\ 222\ southbound\ between\ 1\ miles\ SOUTH\ of\ Exit:\ VI[A-Za-z]{9,9}\ and\ KEMPSVILLE\ RD\.\ There\ is\ a\ lane\ restriction\.
+cident\ on\ I\-70\ near\ WA[A-Za-z]{9,9}\ RD\ Drive\ with\ caution\.
+ow\ traffic\ on\ Pacific\ Highway\ 1\ S\ \-\ I\-5\ S\ from\ OR\-99E\ Bus/Salem\ Expy/Exit\ 260\ \(I\-5\)\ to\ OR\-99E/Exit\ 258\ \(I\-5\)\ due\ to\ ac[A-Za-z]{6,6}\.
+Slow\ traffic\ on\ Norman\ Y\ Mineta\ Hwy\ \-\ CA\-85\ N\ from\ Santa\ Teresa\ Blvd\ \(CA\-85\)\ to\ Almaden\ Expy\ \(CA\-85\)\ due\ to\ ac[A-Za-z]{6,6}\.
+t\ ramp\ from\ I\-5\ No[A-Za-z]{8,8}\ at\ Exit\ 137\ to\ WA\-99\ Northbound\ lane\ blocked\ due\ to\ accident\.
+dent\ on\ 24th\ St\ So[A-Za-z]{8,8}\ at\ D\ St\.
+\#3\ lane\ blocked\ due\ to\ accident\ on\ I\-405\ So[A-Za-z]{8,8}\ at\ Exit\ 39\ 182nd\ St\.
+ident\ on\ Leland\ College\ Dr\ Ea[A-Za-z]{7,7}\ between\ Texas\ College\ Dr\ and\ J\.J\.\ Lemmon\ Rd\.
+Accident\ on\ Wolfback\ Ridge\ Rd\ \(US\-101\)\ from\ Sa[A-Za-z]{7,7}\ Lateral\ \(US\-101\)\ to\ Redwood\ Hwy\ \-\ CA\-1\ S\ \-\ US\-101\ S\.
+t\ No[A-Za-z]{7,7}\ Ave\ \-\ Accident\.
+In[A-Za-z]{6,6}\ on\ I\-405\ SB\ near\ SUNSET\ BLVD\ Drive\ with\ caution\.
+dent\ on\ Linfield\ Rd\ at\ Va[A-Za-z]{8,8}\ Dr\.
+In[A-Za-z]{6,6}\ on\ CA\-74\ WB\ near\ ANTONIO\ PKY\ Drive\ with\ caution\.
+t\ Lincoln\ Hwy\ W\ \-\ Ac[A-Za-z]{6,6}\.
+Ac[A-Za-z]{6,6}\ on\ Lake\ Forest\ Dr\ at\ Woodburn\ Rd\.
+Accident\ on\ US\-301\ So[A-Za-z]{8,8}\ at\ Boyette\ Rd\.
+St[A-Za-z]{8,8}\ traffic\ on\ US\-1\ N\ \-\ NJ\-139\ E\ \-\ US\-9\ N\ from\ I\-95\ \(US\-9/US\-1\)\ to\ US\-1\-9\ Trk/Tonnele\ Ave\ \(US\-9/US\-1\)\ due\ to\ accident\.
+ow\ traffic\ from\ Garden\ Trace\ Dr\ to\ Reames\ Rd\ /\ US\-21\ S\ due\ to\ ac[A-Za-z]{6,6}\.
+i\-vehicle\ accident\ on\ I\-24\ Ea[A-Za-z]{7,7}\ between\ Exit\ 117\ Aedc\ Rd\ and\ Exit\ 127\ TN\-50\.
+NYSTA\ \-\ Statewide\ Ops\.:\ crash\ on\ I\-87\ \-\ NYS\ Thruway\ so[A-Za-z]{8,8}\ at\ After\ Exit\ 15A\ \(I\-87\)\ \-\ Suffern\ \(Rte\ 17N\ \-\ Route\ 59\)\ starting\ 10:35\ AM\ 10/15/2022\ \[CARS\ CAD\-222880137\]
+e\ blocked\ and\ HOV\ lane\ blocked\ due\ to\ crash\ on\ I\-605\ So[A-Za-z]{8,8}\ at\ Exit\ 12\ Telegraph\ Rd\.
+w\ traffic\ on\ I\-64\ E\ \-\ US\-60\ E\ from\ Exit\ 43\ \(I\-64\)\ to\ US\-60/Exit\ 50\ \(I\-64\)\ due\ to\ ac[A-Za-z]{6,6}\.
+eft\ lane\ blocked\ due\ to\ accident\ on\ I\-71\ So[A-Za-z]{8,8}\ at\ Exit\ 104\ OH\-104\ Frank\ Rd\.
+At\ TX\-78/Garland\ Rd/Exit\ 12\ \-\ Ac[A-Za-z]{6,6}\.
+Accident\ on\ I\-87\ So[A-Za-z]{8,8}\ after\ Exit\ 7A\ Saw\ Mill\ River\ Pkwy\.
+Left\ lane\ blocked\ due\ to\ accident\ on\ I\-95\ No[A-Za-z]{8,8}\ at\ Exit\ 7\ New\ London\ Tpke\.
+In\ Mo[A-Za-z]{8,8}\ /\ Mile\ Marker\ 162\ Heading\ East\.\ The\ road\ is\ closed\ near\ Exit\ 162\ \(US\-62\)
+Slow\ traffic\ on\ I\-90\ W\ from\ Petty\ Creek\ Rd/Exit\ 77\ \(I\-90\)\ to\ Ra[A-Za-z]{6,6}\ St/Exit\ 75\ \(I\-90\)\ due\ to\ accident\.
+t\ Wi[A-Za-z]{6,6}\ Blvd/Exit\ 55\ \-\ Accident\.
+rash\ on\ Mt\ Pl[A-Za-z]{6,6}\ Church\ Rd\ at\ Old\ Stage\ Rd\.
+Lane\ blocked\ due\ to\ accident\ on\ I\-55\ Barack\ Obama\ Pr[A-Za-z]{10,10}\ Expy\ Southbound\ at\ Exit\ 274\ IL\-83\.
+In[A-Za-z]{6,6}\ on\ I\-35\ SB\ near\ MN\-21\ Drive\ with\ caution\.
+low\ traffic\ from\ Old\ Spanish\ Trl\ to\ S\ Br[A-Za-z]{7,7}\ Blvd\ due\ to\ accident\.
+St[A-Za-z]{8,8}\ traffic\ on\ SC\-261\ \-\ SC\-512\ from\ Bartells\ Rd\ \(Hemingway\ Hwy/SC\-261\)\ to\ SC\-41\ \(Hemingway\ Hwy/SC\-261\)\ due\ to\ accident\.
+Ac[A-Za-z]{6,6}\ on\ 72nd\ Ave\ at\ Worley\ Dr\.
+V\ lane\ blocked\ due\ to\ accident\ on\ I\-405\ So[A-Za-z]{8,8}\ before\ Venice\ Blvd\.
+dent\ on\ CA\-91\ Ea[A-Za-z]{7,7}\ at\ I\-605\.
+St[A-Za-z]{8,8}\ traffic\ from\ S\ Chickasaw\ Trl\ \(Lake\ Underhill\ Rd\)\ to\ S\ Dean\ Rd\ \(Lake\ Underhill\ Rd\)\ due\ to\ accident\.
+St[A-Za-z]{8,8}\ traffic\ from\ Staunton\ Ave\ to\ I\-10\ E\ due\ to\ accident\.
+Left\ lane\ blocked\ due\ to\ accident\ on\ WI\-20\ Wa[A-Za-z]{8,8}\ Ave\ Westbound\ at\ Frontage\ Rd\.
+In[A-Za-z]{6,6}\ on\ NORWOOD\ RD\ near\ NORWOOD\ RD\ Drive\ with\ caution\.
+t\ Pl[A-Za-z]{6,6}\ Hill\ Rd/Exit\ 104\ \-\ Accident\.\ Left\ lane\ blocked\.
+St[A-Za-z]{8,8}\ traffic\ on\ TX\-12\ Loop\ from\ Lakefield\ Park\ /\ Lakefield\ Blvd\ to\ El\ Centro\ Dr\ due\ to\ accident\.
+Ac[A-Za-z]{6,6}\ on\ I\-5\ at\ Exit\ 120\ 41st\ Division\ Dr\.
+In[A-Za-z]{6,6}\ on\ SC\-64\ near\ WALLING\ RD\ Drive\ with\ caution\.
+t\ He[A-Za-z]{7,7}\ Ave\ \-\ Accident\.
+Ac[A-Za-z]{6,6}\ on\ 66th\ St\ at\ Shields\ Blvd\.
+tween\ PA\-295/Exit\ 28\ and\ PA\-238/Exit\ 24\ \-\ Ac[A-Za-z]{6,6}\.\ Lane\ blocked\.\ Traffic\ problem\.
+ow\ traffic\ on\ FL\-826\ \-\ FL\-826\ E\ \-\ FL\-91\ S\ \-\ Florida's\ Tpke\ S\ from\ 12th\ Ave\ \(FL\-826\)\ to\ FL\-915/6th\ Ave\ \(FL\-826\)\ due\ to\ ac[A-Za-z]{6,6}\.
+On\ Rt\.\ 665\ in\ the\ County\ of\ Henry\ in\ the\ vicinity\ of\ Daniels\ Creek\ Rd;\ Rt\.\ 609N/S\ \(Henry\ County\)\ mo[A-Za-z]{7,7}\ can\ expect\ delays\ due\ to\ a\ vehicle\ crash\.\ All\ east\ lanes\ are\ closed\.\ All\ west\ lanes\ are\ closed\.
+Ac[A-Za-z]{6,6}\ on\ Forest\ Ave\ at\ Park\ Pl\.
+In[A-Za-z]{6,6}\ on\ 6TH\ AVE\ near\ ELM\ ST\ Drive\ with\ caution\.
+In[A-Za-z]{6,6}\ on\ I\-210\ EB\ near\ LINCOLN\ AVE\ Drive\ with\ caution\.
+w\ traffic\ on\ I\-840\ W\ from\ I\-24/Exit\ 53\ \(TN\-840\)\ to\ Ve[A-Za-z]{6,6}\ Pkwy/Exit\ 50\ \(TN\-840\)\ due\ to\ accident\.
+Right\ lane\ blocked\ due\ to\ crash\ on\ Woodmen\ Rd\ Ea[A-Za-z]{7,7}\ at\ CO\-83\ Academy\ Blvd\.
+een\ I\-95/Exit\ 27\ and\ MD\-193/Un[A-Za-z]{8,8}\ Blvd/Exit\ 29\ \-\ Accident\.\ Two\ lanes\ blocked\.
+Ac[A-Za-z]{6,6}\ on\ 1st\ St\ at\ Mary\ St\.

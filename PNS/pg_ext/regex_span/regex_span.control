@@ -1,0 +1,4 @@
+comment = 'Regex span helpers that preserve character boundaries'
+default_version = '1.0'
+module_pathname = '$libdir/regex_span'
+relocatable = false

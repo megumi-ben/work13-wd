@@ -1,0 +1,100 @@
+t\ SR\-812/Lantana\ Rd/Exit\ 61\ \-\ Ac[A-Za-z]{6,8}\.
+Slow\ tr[A-Za-z]{5,7}\ from\ Berendo\ Ave\ to\ W\ 126th\ St\ due\ to\ [A-Za-z]+\.
+Slow\ traffic\ on\ TN\-153\ N\ from\ TN\-317/Bonny\ Oaks\ Dr\ \(TN\-153\)\ to\ TN\-58/A[A-Za-z]{7,9}\ Hwy\ \(TN\-153\)\ due\ to\ (?:[A-Za-z]+)\.
+A[A-Za-z]{7,9}\ on\ exit\ ramp\ from\ I\-80\ [A-Z][a-z]+\ at\ Exit\ 449\ to\ S\ 72Nd\ St\.
+A[A-Za-z]{7,9}\ on\ Switzer\ Rd\ at\ US\-20\.
+At\ OH\-25/Exit\ 11\ \-\ Ac[A-Za-z]{6,8}\.
+V\ and\ \#1\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ CA\-170\ [A-Z][a-z]+\ after\ Exit\ 7\ Burbank\ Blvd\.
+A[A-Za-z]{7,9}\ on\ MN\-24\ from\ N\ Sibley\ Ave\ /\ US\ (?:[A-Z][a-z]+)\ 12\ to\ US\ Highway\ 12\ /\ N\ Sibley\ Ave\.
+S[A-Za-z]{9,11}\ traffic\ on\ US\-290\ E\ from\ Jones\ Rd\ \(US\-290\)\ to\ W\ Sam\ Houston\ Pkwy\ N\ \(US\-290\)\ due\ to\ (?:[A-Za-z]+)\.
+S[A-Za-z]{9,11}\ traffic\ on\ I\-81\ S\ from\ exit\ \[16\]\ to\ exit\ \[14\]\ due\ to\ [A-Za-z]+\.
+S[A-Za-z]{9,11}\ traffic\ on\ SW\ 117th\ Ave\ from\ FL\-821/Florida's\ Tpke\ to\ SW\ 128th\ St\ due\ to\ (?:[A-Za-z]+)\.
+I[A-Za-z]{7,9}\ on\ US\-1\ near\ US\-1\ Drive\ with\ (?:[A-Za-z]+)\.
+Left\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ I\-295\ (?:[A-Z][a-z]+)\ before\ Exit\ 49\ Saint\ Johns\ Bluff\ Rd\.
+Slow\ traffic\ on\ CA\-60\ E\ \-\ I\-215\ S\ from\ Co[A-Za-z]{6,8}\ Ave\ \(I\-215\)\ to\ [A-Z][a-z]+\ Ave\ \(I\-215\)\ due\ to\ accident\.
+Slow\ tr[A-Za-z]{5,7}\ on\ FL\-865\ from\ Hickory\ Blvd\ \(CR\-865\)\ to\ US\-41/FL\-45/S\ Tamiami\ Trl\ \(CR\-865\)\ due\ to\ [A-Za-z]+\.
+t\ Sk[A-Za-z]{5,7}\ Dr/Exit\ 57\ \-\ [A-Z][a-z]+\.\ Right\ lane\ blocked\.
+A[A-Za-z]{7,9}\ on\ CA\-155\ at\ CA\-65\.
+ne\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ US\-212\ 78th\ St\ (?:[A-Z][a-z]+)\ at\ CR\-60\ Mitchell\ Rd\.
+low\ traffic\ on\ FL\-552\ \-\ FL\-551\ from\ Hidden\ Hollow\ Dr\ to\ S[A-Za-z]{8,10}\ St\ due\ to\ [A-Za-z]+\.
+B\ SO\.\ BRO\ SDN\ IN[A-Za-z]{2,4}\ CD
+Slow\ tr[A-Za-z]{5,7}\ on\ US\-52\ N\ from\ Alabama\ St\ to\ I\-94\ E\ due\ to\ [A-Za-z]+\.
+Ac[A-Za-z]{6,8}\ on\ Wilkins\ Blvd\ at\ Foster\ Rd\.
+I[A-Za-z]{7,9}\ on\ FORK\ BRANCH\ RD\ near\ 439\ FORK\ BRANCH\ Road\ closed\.\ Take\ (?:[A-Za-z]+)\ route\.
+ident\ on\ PA\-116\ EB\ near\ G[A-Za-z]{8,10}\ RD\ Road\ closed\.\ Take\ (?:[A-Za-z]+)\ route\.
+Left\ lane\ closed\ due\ to\ accident\ on\ CT\-8\ CT\-25\ No[A-Za-z]{8,10}\ from\ Exit\ 2\ [A-Z][a-z]+\ Ave\ to\ Exit\ 4\ Lindley\ St\.
+In[A-Za-z]{6,8}\ on\ I\-469\ WB\ near\ THIELE\ RD\ Road\ closed\.\ Take\ (?:[A-Za-z]+)\ route\.
+A\ h[A-Za-z]{8,10}\ (?:[A-Za-z]+)\ cleanup\ is\ causing\ minimal\ delay\.\ Use\ caution\.
+A[A-Za-z]{7,9}\ on\ US\-70\ Glenwood\ Ave\ at\ I\-440\ (?:[A-Z][a-z]+)\.
+A[A-Za-z]{7,9}\ on\ US\-322\ Main\ St\ at\ [A-Z][a-z]+\ Valley\ Rd\.
+t\ CO\-196\ \-\ A[A-Za-z]{7,9}\.
+try\ ramp\ to\ I\-275\ N[A-Za-z]{9,11}\ from\ N\ Lois\ Ave\ [A-Z][a-z]+\ lane\ blocked\ due\ to\ accident\.
+t\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ I\-75\ (?:[A-Z][a-z]+)\ at\ Exits\ 217\ 217A\ 217B\ FL\-70\.
+I[A-Za-z]{7,9}\ on\ I\-75\ NB\ near\ MM\ 126\ Right\ lane\ [A-Za-z]+\.\ Expect\ delays\.
+In[A-Za-z]{6,8}\ on\ HARBOR\ DR\ near\ SIGSBEE\ ST\ Drive\ with\ (?:[A-Za-z]+)\.
+Ac[A-Za-z]{6,8}\ on\ I\-80\ Bus\ Capital\ City\ Fwy\ [A-Z][a-z]+\ at\ CA\-99\ Exit\ 298A\.
+wo\ lanes\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ I\-435\ [A-Z][a-z]+\ before\ Stadium\ Dr\.
+Ac[A-Za-z]{6,8}\ on\ Marshall\ Ave\ near\ 33rd\ St\.
+ane\ blocked\ due\ to\ ac[A-Za-z]{6,8}\ on\ MN\-36\ 60th\ St\ [A-Z][a-z]+\ at\ Keats\ Ave\.
+t\ Rybolt\ Rd\ \-\ A[A-Za-z]{7,9}\.
+A[A-Za-z]{7,9}\ on\ I\-8\ (?:[A-Z][a-z]+)\ at\ Exits\ 6A\ 6B\ I\-805\.
+Ac[A-Za-z]{6,8}\ on\ Forest\ Ave\ at\ Maple\ St\.
+Lane\ blocked\ due\ to\ accident\ on\ H[A-Za-z]{8,10}\ Rd\ at\ CR\-439\ Conroy\ [A-Z][a-z]+\ Rd\.
+Ac[A-Za-z]{6,8}\ on\ NC\-49\ [A-Z][a-z]+\ City\ Blvd\ at\ I\-485\.
+S[A-Za-z]{9,11}\ traffic\ on\ I\-77\ S\ from\ NC\-73/Exit\ 25\ \(I\-77\)\ to\ Gilead\ Rd/Exit\ 23\ \(I\-77\)\ due\ to\ (?:[A-Za-z]+)\.
+I[A-Za-z]{7,9}\ on\ [A-Za-z]+\ RD\ near\ OLD\ CAMDEN\ RD\ Expect\ delays\.
+Accident\ on\ US\-29\ Tryon\ St\ No[A-Za-z]{8,10}\ at\ [A-Z][a-z]+\ Dr\.
+Slow\ t[A-Za-z]{6,8}\ on\ WY\-22\ from\ Old\ Pass\ Rd\ \(WY\-22\)\ to\ WY\-\-ID\ State\ Border\ \(WY\-22\)\ due\ to\ [A-Za-z]+\.
+A[A-Za-z]{7,9}\ on\ US\-322\ (?:[A-Z][a-z]+)\ Pike\ near\ Spangler\ Rd\.
+A[A-Za-z]{7,9}\ on\ US\-40\ between\ 4500\ and\ 5750\.
+In[A-Za-z]{6,8}\ on\ I\-71\ SB\ near\ MM\ 6\ Right\ (?:[A-Za-z]+)\ closed\.
+Ac[A-Za-z]{6,8}\ on\ PA\-272\ Oregon\ Pike\ at\ [A-Z][a-z]+\ Dr\.
+St[A-Za-z]{8,10}\ traffic\ on\ County\ Hwy\-752\ \-\ FL\-584\ \-\ US\-19\ S\ from\ Nebraska\ Ave\ to\ (?:[A-Z][a-z]+)\ Dr\ due\ to\ accident\.
+\#1\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ US\-101\ [A-Z][a-z]+\ before\ Exit\ 419B\ Broadway\.
+Ac[A-Za-z]{6,8}\ on\ I\-5\ (?:[A-Z][a-z]+)\ at\ Exits\ 156A\ 156B\ CA\-118\.
+Ha[A-Za-z]{7,9}\ debris\ is\ [A-Za-z]+\ no\ to\ minimum\ delays\.\ Use\ caution\.
+t\ 54th\ Av[A-Za-z]{4,6}\ \(near\ (?:[A-Z][a-z]+)\)\ at\ Mile\ Point\ 286\.5\.\ Road\ closed\ expect\ delays\ due\ to\ a\ crash\.\ Detour\ in\ place\.
+w\ t[A-Za-z]{6,8}\ on\ I\-880\ S\ from\ CA\-82/The\ Alameda\ \(I\-880\)\ to\ I\-280/CA\-17\ \(I\-880\)\ due\ to\ [A-Za-z]+\.
+Ac[A-Za-z]{6,8}\ on\ Brooklyn\ Queens\ Expy\ [A-Z][a-z]+\ at\ 31th\ Ave\.
+Qu[A-Za-z]{6,8}\ traffic\ and\ right\ hand\ shoulder\ blocked\ due\ to\ accident\ on\ I\-40\ (?:[A-Z][a-z]+)\ at\ Exit\ 380\ Montvue\ Rd\.
+losed\ between\ Fl[A-Za-z]{6,8}\ Ave/Exit\ 14\ and\ Valley\ Stream\ St\ Pk\ Rd/Exit\ 15A\ \-\ Road\ closed\ due\ to\ (?:[A-Za-z]+)\.
+Right\ hand\ sh[A-Za-z]{6,8}\ blocked\ due\ to\ accident\ on\ I\-880\ [A-Z][a-z]+\ before\ A\ St\.
+A[A-Za-z]{7,9}\ on\ US\-250\ [A-Z][a-z]+\ St\ at\ John\ Rolfe\ Pkwy\.
+In[A-Za-z]{6,8}\ on\ I\-66\ WB\ near\ MM\ 62\ Right\ lane\ [A-Za-z]+\.\ Expect\ delays\.
+A[A-Za-z]{7,9}\ on\ Sheriff\ (?:[A-Z][a-z]+)\ Way\ near\ Mobley\ Rd\.
+Ac[A-Za-z]{6,8}\ from\ (?:[A-Z][a-z]+)\ Rd\ /\ Bonnie\ Dr\ to\ I\-215\ S\.
+A[A-Za-z]{7,9}\ on\ San\ Diego\ Fwy\ S\ \-\ I\-405\ S\ from\ I\-710\ \(I\-405\)\ to\ (?:[A-Z][a-z]+)\ Rd\ \(I\-405\)\.
+t\ US\-64\-BR/Exit\ 429\ \-\ Ac[A-Za-z]{6,8}\.\ Lane\ (?:[A-Za-z]+)\.
+S[A-Za-z]{9,11}\ traffic\ on\ I\-275\ S\ from\ FL\-686/(?:[A-Z][a-z]+)\ Blvd/Exit\ 16\ \(I\-275\)\ to\ 38th\ Ave/Exit\ 13\ \(I\-275\)\ due\ to\ accident\.
+Incident\ on\ B[A-Za-z]{8,10}\ RD\ WB\ near\ [A-Za-z]+\ AVE\ Road\ closed\.\ Take\ alternate\ route\.
+ft\ lane\ blocked\ due\ to\ ac[A-Za-z]{6,8}\ on\ NJ\-73\ (?:[A-Z][a-z]+)\ at\ CR\-544\ Evesham\ Rd\.
+Stationary\ traffic\ on\ Me[A-Za-z]{9,11}\ Pkwy\ N\ from\ NY\-24/Exit\ M5\ \([A-Z][a-z]+\ State\ Pkwy\)\ to\ Merchants\ Concourse/Exit\ M3W\ \(Meadowbrook\ State\ Pkwy\)\ due\ to\ accident\.
+\#5\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ I\-35E\ [A-Z][a-z]+\ at\ Inwood\ Rd\.
+S[A-Za-z]{9,11}\ traffic\ on\ W\ Ridge\ Pike\ from\ I\-476\ to\ Butler\ Pike\ \(Ridge\ Pike\)\ due\ to\ [A-Za-z]+\.
+Ac[A-Za-z]{6,8}\ on\ US\-70\ (?:[A-Z][a-z]+)\ St\ at\ Tryon\ Rd\.
+ht\ hand\ s[A-Za-z]{7,9}\ blocked\ due\ to\ accident\ on\ CA\-60\ [A-Z][a-z]+\ before\ Day\ St\.
+Accident\ on\ W\ Shaw\ Ave\ from\ N\ Di[A-Za-z]{7,9}\ Ave\ to\ N\ (?:[A-Z][a-z]+)\ Ave\.
+Middle\ lane\ blocked\ and\ slow\ traffic\ due\ to\ ac[A-Za-z]{6,8}\ on\ I\-5\ [A-Z][a-z]+\ at\ Exit\ 137A\ CA\-110\.
+Ac[A-Za-z]{6,8}\ on\ Memorial\ Rd\ at\ Kelley\ Ave\.
+Ac[A-Za-z]{6,8}\ on\ I\-385\ (?:[A-Z][a-z]+)\ at\ Exit\ 10\ SC\-23\ Metric\ Rd\.
+Ac[A-Za-z]{6,8}\ on\ US\-441\ Orange\ Blossom\ Trl\ at\ CR\-527A\ [A-Z][a-z]+\ Rd\.
+Ac[A-Za-z]{6,8}\ on\ [A-Z][a-z]+\ St\ \(CA\-60\)\ from\ Pedley\ Rd\ \(CA\-60\)\ to\ Pomona\ Fwy\ W\ \-\ CA\-60\ W\.
+I[A-Za-z]{7,9}\ on\ US\-12\ NB\ near\ STATE\ PARK\ RD\ Drive\ with\ (?:[A-Za-z]+)\.
+One\ lane\ b[A-Za-z]{6,8}\ due\ to\ [A-Za-z]+\ on\ Spruce\ St\ at\ NC\-273\ Park\ St\.
+Ac[A-Za-z]{6,8}\ on\ OH\-48\ Main\ St\ at\ (?:[A-Z][a-z]+)\ Dr\.
+low\ t[A-Za-z]{6,8}\ from\ SW\ 115th\ Ave\ to\ SW\ 10500\ Blk\ due\ to\ [A-Za-z]+\.
+S[A-Za-z]{9,11}\ traffic\ on\ GA\-25\ \-\ GA\-520\ \-\ US\-17\ S\ from\ US\-341/GA\-27/4th\ Ave\ \(US\-17\)\ to\ I\-95/GA\-405\ \([A-Z][a-z]+\)\ \(US\-17\)\ due\ to\ accident\.
+t\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ I\-95\ [A-Z][a-z]+\ before\ Exits\ 23\ 24\ 25\ I\-595\.
+St[A-Za-z]{8,10}\ traffic\ on\ Norman\ Y\ Mineta\ Hwy\ \-\ CA\-85\ N\ from\ Bernal\ Rd\ \(CA\-85\)\ to\ Blossom\ Hill\ Rd\ \(CA\-85\)\ due\ to\ [A-Za-z]+\.
+t\ US\-285/Ha[A-Za-z]{5,7}\ Ave/Exit\ 201\ \-\ [A-Z][a-z]+\.\ Left\ lane\ blocked\.
+Entry\ ramp\ to\ W[A-Za-z]{8,10}\ Rd\ Westbound\ at\ Exit\ 35\ from\ I\-95\ [A-Z][a-z]+\ lane\ blocked\ due\ to\ accident\.
+Ac[A-Za-z]{6,8}\ on\ County\ Hwy\-N3\ [A-Z][a-z]+\ Forest\ Hwy\ at\ CA\-14\.
+I[A-Za-z]{7,9}\ on\ I\-20\ WB\ near\ GALLATIN\ ST\ Left\ lane\ (?:[A-Za-z]+)\.
+Incident\ on\ CH[A-Za-z]{9,11}\ BLVD\ near\ W\ [A-Za-z]+\ BLV\ Expect\ delays\.
+Center\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ I\-278\ Queens\ Midtown\ Expy\ (?:[A-Z][a-z]+)\ at\ Exit\ 28A\ Old\ Fulton\ St\.
+Left\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ I\-270\ (?:[A-Z][a-z]+)\ at\ Exit\ 29\ OH\-3\.
+In[A-Za-z]{6,8}\ on\ N\ CEDAR\ AVE\ near\ HOUSE\ 7445\ Drive\ with\ (?:[A-Za-z]+)\.
+2\ left\ lane\ blocked\ due\ to\ accident\ on\ I\-85\ So[A-Za-z]{8,10}\ at\ Exit\ 56\ [A-Z][a-z]+\ Rd\.
+ht\ hand\ sh[A-Za-z]{6,8}\ blocked\ due\ to\ accident\ on\ VA\-288\ at\ VA\-6\ [A-Z][a-z]+\ Ave\.
+Ac[A-Za-z]{6,8}\ on\ Wash\ Davis\ Rd\ at\ Luke\ (?:[A-Z][a-z]+)\ Rd\.
+In[A-Za-z]{6,8}\ on\ W\ ORANGE\ GROVE\ RD\ near\ N\ ORACLE\ RD\ [A-Z][a-z]+\ delays\.

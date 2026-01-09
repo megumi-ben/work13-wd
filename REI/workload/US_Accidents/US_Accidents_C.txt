@@ -1,0 +1,100 @@
+S[A-Za-z]{7,9}\ blocked\ due\ to\ [A-Za-z]+\ on\ I\-41\ [A-Z][a-z]+\ after\ Exit\ 1E\ Lincoln\ Ave\.
+Center\ lane\ bl[A-Za-z]{5,7}\ due\ to\ [A-Za-z]+\ on\ I\-278\ Queens\ Midtown\ Expy\ [A-Z][a-z]+\ at\ Exit\ 28A\ Old\ Fulton\ St\.
+A[A-Za-z]{7,9}\ on\ Shepherd\ Dr\ at\ 22nd\ St\.
+Ac[A-Za-z]{6,8}\ on\ VA\-637\ [A-Z][a-z]+\ Rd\ at\ VA\-647\ (?:[A-Z][a-z]+)\ Blvd\.
+Ac[A-Za-z]{6,8}\ on\ I\-94\ [A-Z][a-z]+\ at\ Exit\ 235A\ [A-Z][a-z]+\ Ave\.
+Ac[A-Za-z]{6,8}\ on\ Prospect\ St\ at\ 15th\ Ave\.
+\#1\ lane\ b[A-Za-z]{6,8}\ due\ to\ [A-Za-z]+\ on\ I\-680\ [A-Z][a-z]+\ at\ Capitol\ Ave\.
+Right\ hand\ sh[A-Za-z]{6,8}\ blocked\ due\ to\ [A-Za-z]+\ on\ US\-9\ [A-Z][a-z]+\ at\ County\ Hwy\-93\ Myers\ Corners\ Rd\.
+Lane\ b[A-Za-z]{6,8}\ due\ to\ (?:[A-Za-z]+)\ on\ I\-81\ [A-Z][a-z]+\ at\ I\-81\ Exits\ 85B\.
+I[A-Za-z]{7,9}\ on\ E\ COLLEGE\ AVE\ near\ QUEEN\ ST\ [A-Z][a-z]+\ long\ (?:[A-Za-z]+)\.
+A[A-Za-z]{7,9}\ on\ Council\ Rd\ at\ Devore\ Dr\.
+A[A-Za-z]{7,9}\ on\ Blue\ Point\ Rd\ at\ Sunset\ Ave\.
+t\ S\ S[A-Za-z]{9,11}\ St\ \-\ Accident\.
+ree\ lanes\ b[A-Za-z]{6,8}\ due\ to\ [A-Za-z]+\ on\ I\-95\ [A-Z][a-z]+\ after\ Exit\ 74\ 45th\ St\.
+A[A-Za-z]{7,9}\ on\ Lomaland\ Dr\ at\ Bengal\ Dr\.
+A[A-Za-z]{7,9}\ on\ Chicago\ Ave\ at\ Ritsch\ Ct\.
+St[A-Za-z]{8,10}\ traffic\ from\ Simon\ Bolivar\ Ave\ \(Jackson\ Ave\)\ to\ US\-90/S\ [A-Z][a-z]+\ Ave\ \(Jackson\ Ave\)\ due\ to\ [A-Za-z]+\.
+Right\ lane\ blocked\ and\ right\ hand\ shoulder\ blocked\ due\ to\ accident\ on\ I\-264\ Wa[A-Za-z]{7,9}\ Expy\ [A-Z][a-z]+\ at\ Exits\ 18\ 18A\ 18B\ KY\-1932\ (?:[A-Z][a-z]+)\ Ln\.
+Crash\ on\ CA\-4\ We[A-Za-z]{7,9}\ [A-Za-z]+\ Exit\ 26\ Auto\ [A-Z][a-z]+\ Dr\.
+t\ NF\-550/Skyline\ Rd\ \-\ A[A-Za-z]{7,9}\.
+low\ tr[A-Za-z]{5,7}\ on\ I\-275\ S\ from\ FL\-582/Exit\ 34\ \(I\-275\)\ to\ [A-Z][a-z]+\ Ave/Exit\ 31\ \(I\-275\)\ due\ to\ [A-Za-z]+\.
+At\ Gilman\ St\ \-\ A[A-Za-z]{7,9}\.
+A[A-Za-z]{7,9}\ on\ (?:[A-Z][a-z]+)\ Rd\ at\ SC\-642\ [A-Z][a-z]+\ Rd\.
+I[A-Za-z]{7,9}\ on\ [A-Za-z]+\ PKY\ near\ PACIFIC\ ST\ Right\ [A-Za-z]+\ closed\.
+Ac[A-Za-z]{6,8}\ on\ Main\ St\ at\ Kernan\ Ave\.
+I[A-Za-z]{7,9}\ on\ I\-295\ NB\ near\ MM\ 19\ [A-Z][a-z]+\ (?:[A-Za-z]+)\.
+Ac[A-Za-z]{6,8}\ on\ US\-1\ Two\ [A-Z][a-z]+\ Rd\ at\ [A-Z][a-z]+\ Rd\.
+ht\ hand\ s[A-Za-z]{7,9}\ blocked\ due\ to\ [A-Za-z]+\ on\ US\-101\ (?:[A-Z][a-z]+)\ at\ Exit\ 4A\ Glendale\ Blvd\.
+Ac[A-Za-z]{6,8}\ on\ I\-80\ [A-Z][a-z]+\ at\ [A-Z][a-z]+\ 83\ CA\-84\ Reed\ Ave\.
+I[A-Za-z]{7,9}\ on\ I\-66\ WB\ near\ MM\ 45\ [A-Z][a-z]+\ with\ [A-Za-z]+\.
+S[A-Za-z]{9,11}\ [A-Za-z]+\ on\ I\-495\ W\ from\ Maurice\ Ave\ \(I\-495\)\ to\ I\-278\ \(I\-495\)\ due\ to\ [A-Za-z]+\.
+A[A-Za-z]{7,9}\ on\ [A-Z][a-z]+\ Rd\ [A-Z][a-z]+\ at\ Western\ Ave\.
+t\ lane\ blocked\ due\ to\ ac[A-Za-z]{6,8}\ on\ I\-95\ [A-Z][a-z]+\ at\ Exit\ 8A\ NJ\-32\ [A-Z][a-z]+\ Dr\.
+At\ Gold\ Run\ Safety\ Rest\ Area\ \-\ A[A-Za-z]{7,9}\.
+e\ bl[A-Za-z]{5,7}\ due\ to\ [A-Za-z]+\ on\ AL\-69\ both\ ways\ at\ [A-Z][a-z]+\ Hill\ Rd\.
+t\ 138\ St/Exit\ 45\ \-\ Ac[A-Za-z]{6,8}\.
+St[A-Za-z]{8,10}\ traffic\ on\ I\-105\ E\ \-\ Glenn\ (?:[A-Z][a-z]+)\ Fwy\ E\ from\ Nash\ St\ \(I\-105\)\ to\ Long\ Beach\ Blvd\ \(I\-105\)\ due\ to\ [A-Za-z]+\.
+t\ OO\ Ranch\ Rd\ \-\ Ac[A-Za-z]{6,8}\.
+I[A-Za-z]{7,9}\ on\ I\-10\ EB\ near\ MM\ 193\ (?:[A-Z][a-z]+)\ with\ (?:[A-Za-z]+)\.
+V[A-Za-z]{6,8}\ [A-Z][a-z]+\ on\ I\-64\ WB\ at\ Mile\ [A-Z][a-z]+\ 17\.0\.
+Be[A-Za-z]{5,7}\ Sierra\ Point\ Pky/Exit\ 426B\ and\ Oyster\ Point\ Blvd/Exit\ 425B\ \-\ [A-Z][a-z]+\.\ Two\ lanes\ [A-Za-z]+\.
+At\ 45th\ St/50th\ St/Exit\ 169\ \-\ A[A-Za-z]{7,9}\.
+Two\ lanes\ blocked\ and\ sh[A-Za-z]{6,8}\ blocked\ due\ to\ [A-Za-z]+\ on\ I\-35W\ [A-Z][a-z]+\ at\ I\-20\ Exits\ 435\.
+A[A-Za-z]{7,9}\ on\ US\-441\ Orange\ (?:[A-Z][a-z]+)\ Trl\ at\ CR\-527A\ [A-Z][a-z]+\ Rd\.
+t\ Park\ Rd\ \-\ A[A-Za-z]{7,9}\.
+A[A-Za-z]{7,9}\ on\ [A-Z][a-z]+\ Daly\ Blvd\ from\ CA\-82/[A-Z][a-z]+\ St\ to\ I\-280/CA\-1\.
+t\ A\ St\ \-\ A[A-Za-z]{7,9}\.
+Ac[A-Za-z]{6,8}\ on\ I\-20\ (?:[A-Z][a-z]+)\ at\ Exit\ 65\ (?:[A-Z][a-z]+)\ Ln\.
+Right\ hand\ s[A-Za-z]{7,9}\ blocked\ due\ to\ [A-Za-z]+\ on\ I\-95\ [A-Z][a-z]+\ at\ Exits\ 363\ 363A\ 363B\ CR\-110\ Max\ Leggett\ Pkwy\.
+Right\ lane\ b[A-Za-z]{6,8}\ due\ to\ [A-Za-z]+\ on\ FL\-821\ [A-Z][a-z]+\ at\ Exit\ 5\ 288th\ St\.
+In[A-Za-z]{6,8}\ on\ BERKLEY\ DR\ near\ GALLATIN\ PIKE\ (?:[A-Z][a-z]+)\ with\ [A-Za-z]+\.
+t\ Spring\ St/Exit\ 85\ \-\ A[A-Za-z]{7,9}\.
+Left\ lane\ bl[A-Za-z]{5,7}\ due\ to\ (?:[A-Za-z]+)\ on\ WI\-29\ [A-Z][a-z]+\ after\ County\ Hwy\-U\.
+S[A-Za-z]{9,11}\ [A-Za-z]+\ on\ CA\-16\ from\ Elder\ Creek\ Rd\ to\ Mayhew\ Rd\ due\ to\ [A-Za-z]+\.
+Ac[A-Za-z]{6,8}\ on\ I\-85\ [A-Z][a-z]+\ at\ (?:[A-Z][a-z]+)\ 58\ US\-280\.
+ow\ tr[A-Za-z]{5,7}\ on\ I\-495\ E\ from\ (?:[A-Z][a-z]+)\ Ave/Exit\ 17\ \(I\-495\)\ to\ Little\ Neck\ Pkwy/Exit\ 32\ \(I\-495\)\ due\ to\ (?:[A-Za-z]+)\.
+t\ Harbor\ Blvd\ \-\ Ac[A-Za-z]{6,8}\.
+A[A-Za-z]{7,9}\ on\ South\ [A-Z][a-z]+\ Ave\ at\ [A-Z][a-z]+\ Rd\.
+Two\ lanes\ b[A-Za-z]{6,8}\ due\ to\ (?:[A-Za-z]+)\ on\ CT\-9\ (?:[A-Z][a-z]+)\ after\ Exit\ 16\ /\ Harbor\ Dr\.
+I[A-Za-z]{7,9}\ on\ WEST\ BLVD\ near\ MERRIMAN\ AVE\ [A-Z][a-z]+\ with\ (?:[A-Za-z]+)\.
+I[A-Za-z]{7,9}\ on\ I\-69\ EB\ near\ CENTER\ TO\ EB\ I\-69\ RAMP\ [A-Z][a-z]+\ with\ [A-Za-z]+\.
+L\ DODGE\ C[A-Za-z]{6,8}\ VS\ SIL\ TOYT\ CAMRY
+Left\ lane\ bl[A-Za-z]{5,7}\ due\ to\ [A-Za-z]+\ on\ I\-10\ (?:[A-Z][a-z]+)\ at\ Exits\ 154\ 155\ US\-60\.
+Crash\ right\ lane\ blocked\ on\ I\-87\ \-\ NYS\ Thruway\ no[A-Za-z]{8,10}\ from\ Before\ Exit\ 19\ \(I\-87\)\ \-\ [A-Z][a-z]+\ \(Rte\ 28\)\ to\ After\ Exit\ 19\ \(I\-87\)\ \-\ [A-Z][a-z]+\ \(Rte\ 28\)\ starting\ 5:58\ PM\ 01/26/2021\ \[CARS\ CAD\-210260331\]
+Ac[A-Za-z]{6,8}\ on\ Honolulu\ Ave\ at\ Wickham\ Way\.
+A[A-Za-z]{7,9}\ on\ Peoria\ Ave\ at\ 21st\ St\.
+Ac[A-Za-z]{6,8}\ on\ IL\-53\ [A-Z][a-z]+\ Rd\ [A-Za-z]+\ CR\-A50\ Lake\ Cook\ Rd\.
+Lane\ blocked\ due\ to\ ac[A-Za-z]{6,8}\ on\ Saw\ Mill\ Pkwy\ (?:[A-Z][a-z]+)\ at\ [A-Z][a-z]+\ Blvd\.
+At\ SE\ A[A-Za-z]{8,10}\ Rd\ \-\ Accident\.
+St[A-Za-z]{8,10}\ [A-Za-z]+\ on\ I\-635\ N\ \-\ LBJ\ Fwy\ N\ from\ Gross\ Rd/Exit\ 5\ \(I\-635\)\ to\ Oates\ Dr/Exit\ 9\ \(I\-635\)\ due\ to\ [A-Za-z]+\.
+Ac[A-Za-z]{6,8}\ on\ [A-Z][a-z]+\ St\ (?:[A-Z][a-z]+)\ at\ Union\ Ave\.
+t\ 35th\ St/Exit\ 309\ \-\ Ac[A-Za-z]{6,8}\.
+In[A-Za-z]{6,8}\ on\ [A-Za-z]+\ RD\ near\ BOUNDARY\ BLVD\ [A-Z][a-z]+\ delays\.
+Co[A-Za-z]{10,12}\ on\ PINE\ ST\ near\ HOUSE\ 10400\ [A-Z][a-z]+\ (?:[A-Za-z]+)\.
+ow\ t[A-Za-z]{6,8}\ on\ I\-215\ S\ from\ Mill\ St\ \(I\-215\)\ to\ [A-Z][a-z]+\ Center\ Dr\ \(I\-215\)\ due\ to\ [A-Za-z]+\.
+A\ crash\ has\ oc[A-Za-z]{6,8}\ [A-Za-z]+\ no\ to\ [A-Za-z]+\ delays\.\ Use\ caution\.
+Slow\ traffic\ on\ TN\-11\ \-\ US\-431\ S\ \-\ US\-31W\ S\ \-\ US\-41\ S\ from\ N\ 1st\ St\ \(US\-41/US\-31W/TN\-11/Di[A-Za-z]{7,9}\ Pike/US\-431\)\ to\ US\-31W/TN\-6/[A-Z][a-z]+\ Pkwy\ \(US\-431\)\ due\ to\ [A-Za-z]+\.
+Slow\ tr[A-Za-z]{5,7}\ on\ I\-10\ W\ \-\ FL\-8\ W\ from\ [A-Za-z]+\ Ave/Exit\ 57\ \(I\-10\)\ to\ FL\-111/Cassat\ Ave/Exit\ 55\ \(I\-10\)\ due\ to\ [A-Za-z]+\.
+S[A-Za-z]{9,11}\ traffic\ on\ CA\-60\ E\ \-\ I\-215\ S\ from\ CA\-91/CA\-60\ \(I\-215\)\ to\ [A-Z][a-z]+\ Ave\ \(I\-215\)\ due\ to\ [A-Za-z]+\.
+ght\ hand\ s[A-Za-z]{7,9}\ blocked\ and\ right\ lane\ blocked\ due\ to\ [A-Za-z]+\ on\ RI\-10\ [A-Z][a-z]+\ near\ Exit\ 5\ Union\ Ave\.
+Center\ lane\ b[A-Za-z]{6,8}\ due\ to\ [A-Za-z]+\ on\ I\-69\ [A-Z][a-z]+\ at\ Chimney\ Rock\ Rd\.
+I[A-Za-z]{7,9}\ on\ I\-81\ NB\ near\ MM\ 291\ Right\ lane\ [A-Za-z]+\.\ (?:[A-Z][a-z]+)\ delays\.
+In[A-Za-z]{6,8}\ on\ FLORIN\ RD\ near\ 65TH\ ST\ [A-Z][a-z]+\ with\ [A-Za-z]+\.
+Left\ and\ center\ lane\ blocked\ and\ left\ hand\ sh[A-Za-z]{6,8}\ blocked\ due\ to\ [A-Za-z]+\ on\ M\-10\ (?:[A-Z][a-z]+)\ near\ Exit\ 12\ James\ Couzens\ Fwy\.
+e\ bl[A-Za-z]{5,7}\ due\ to\ [A-Za-z]+\ on\ Bronx\ River\ Ave\ [A-Z][a-z]+\ at\ I\-95\ Cross\ Bronx\ Expy\.
+A[A-Za-z]{7,9}\ on\ [A-Z][a-z]+\ Dr\ at\ (?:[A-Z][a-z]+)\ Ave\.
+In[A-Za-z]{6,8}\ on\ SUNSHINE\ ST\ near\ GOLDEN\ AVE\ [A-Z][a-z]+\ with\ [A-Za-z]+\.
+Ac[A-Za-z]{6,8}\ on\ TX\-536\ [A-Z][a-z]+\ Ave\ at\ I\-410\ Access\ Rd\ (?:[A-Z][a-z]+)\.
+At\ H[A-Za-z]{8,10}\ Rd/Exit\ 4\ \-\ [A-Z][a-z]+\.\ Right\ lane\ (?:[A-Za-z]+)\.
+A[A-Za-z]{7,9}\ on\ US\-301\ [A-Z][a-z]+\ at\ (?:[A-Z][a-z]+)\ Dr\.
+In[A-Za-z]{6,8}\ on\ I\-95\ NB\ near\ I\-95\ [A-Z][a-z]+\ [A-Za-z]+\.
+At\ N\ 19th\ Ave\ \-\ A[A-Za-z]{7,9}\.\ [A-Z][a-z]+\ lane\ [A-Za-z]+\.
+ght\ lane\ blocked\ due\ to\ a[A-Za-z]{7,9}\ on\ I\-77\ [A-Z][a-z]+\ at\ Exit\ 120\ CR\-15\ [A-Z][a-z]+\ Rd\.
+ght\ lane\ b[A-Za-z]{6,8}\ due\ to\ [A-Za-z]+\ on\ I\-95\ [A-Z][a-z]+\ at\ Exits\ 158\ 158A\ 158B\ VA\-294\ Prince\ William\ Pkwy\.
+In[A-Za-z]{6,8}\ on\ I\-95\ NB\ near\ MM\ 68\ Right\ lane\ [A-Za-z]+\.\ [A-Z][a-z]+\ delays\.
+V\ lane\ b[A-Za-z]{6,8}\ due\ to\ crash\ on\ I\-5\ [A-Z][a-z]+\ [A-Za-z]+\ Exit\ 161\ Albro\ Pl\.
+Slow\ t[A-Za-z]{6,8}\ on\ OH\-725\ from\ (?:[A-Z][a-z]+)\ Station\ Rd\ to\ I\-675\ N\ due\ to\ [A-Za-z]+\.
+A[A-Za-z]{7,9}\ on\ [A-Z][a-z]+\ Ct\ at\ Clifton\ (?:[A-Z][a-z]+)\ Rd\.
+Accident\ on\ US\-501\ at\ U[A-Za-z]{9,11}\ Blvd\.
+w\ tr[A-Za-z]{5,7}\ on\ Old\ Oregon\ Trail\ Hwy\ No\ 6\ \-\ I\-84\ E\ \-\ US\-30\ E\ \-\ Old\ Oregon\ Trl\ from\ [A-Z][a-z]+\ Spring\ State\ Park/Exit\ 234\ \(I\-84\)\ to\ Spring\ Cr\.\ Rd\./Exit\ 248\ \(I\-84\)\ due\ to\ (?:[A-Za-z]+)\.
